@@ -1,6 +1,6 @@
-# GraphQL Books
+# Books
 
-Basic CRUD Graphql app 
+Basic Graphql app 
 
 ## To Use
 
